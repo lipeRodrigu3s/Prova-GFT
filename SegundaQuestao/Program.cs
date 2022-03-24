@@ -6,18 +6,14 @@ namespace segundaQuestao
     {
         static void Main()
         {
-            var quantidadeImcomoda;
-            int numero;
-            
+            int n;
             Console.WriteLine("Digite um numero: ");
-            int numero = int.Parse(Console.ReadLine());
-            
-            while (quantidadeImcomoda == numero)
-            {
-                Console.WriteLine("muito mais");
-            }
-            
+            var n = int.Parse(Console.ReadLine());
 
+            for (int imcomoda = 1; imcomoda < Length; imcomoda++)
+            {
+                Console.WriteLine(imcomoda + "muito mais");
+            }
 
 
 
