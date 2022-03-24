@@ -1,0 +1,15 @@
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\bin\Debug\net6.0\Prova GFT.exe
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\bin\Debug\net6.0\Prova GFT.deps.json
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\bin\Debug\net6.0\Prova GFT.runtimeconfig.json
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\bin\Debug\net6.0\Prova GFT.dll
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\bin\Debug\net6.0\Prova GFT.pdb
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\Prova GFT.csproj.AssemblyReference.cache
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\Prova GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\Prova GFT.AssemblyInfoInputs.cache
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\Prova GFT.AssemblyInfo.cs
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\Prova GFT.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\Prova GFT.dll
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\refint\Prova GFT.dll
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\Prova GFT.pdb
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\Prova GFT.genruntimeconfig.cache
+C:\Users\Fellipe\Documents\Programção\GFT\Prova-GFT\Prova GFT\obj\Debug\net6.0\ref\Prova GFT.dll
